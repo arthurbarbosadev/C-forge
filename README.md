@@ -2,6 +2,9 @@
 
 **CFORGE** é um projeto desenvolvido em C com o objetivo de construir, de forma incremental, um sistema de gestão completo utilizando conceitos de Estruturas de Dados, algoritmos e gerenciamento de memória.
 
+## Nenhum código gerado por IA foi implementado no projeto. Sendo ele construído totalmente a mão (Com Exceção do README.md).
+
+
 O projeto nasceu como uma forma prática de estudar a disciplina de **Estruturas de Dados e Informações (EDI)**, mas a proposta vai além de exercícios isolados.
 
 A ideia é transformar cada novo conceito aprendido em uma parte funcional de um único sistema.
