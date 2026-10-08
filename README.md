@@ -9,6 +9,10 @@ O projeto nasceu como uma forma prática de estudar a disciplina de **Estruturas
 
 A ideia é transformar cada novo conceito aprendido em uma parte funcional de um único sistema.
 
+
+![Language](https://img.shields.io/badge/language-C-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-in%20development-orange)
 ## 🎯 Objetivo
 
 Construir um sistema cada vez mais completo enquanto exploro, na prática, conceitos fundamentais da programação em C:
